@@ -16,6 +16,8 @@ const corsOptions = {
     origin: 'http://localhost:3000',
     origin: 'https://admin-pro-front.vercel.app/',
     origin: 'https://admin-pro-front.vercel.app',
+    origin: 'admin-pro-front.vercel.app',
+
 
 
   };
