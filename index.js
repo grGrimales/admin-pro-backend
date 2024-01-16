@@ -13,7 +13,8 @@ const app = express();
 
 // Configurar CORS para permitir solicitudes de localhost:3000
 const corsOptions = {
-    origin: 'http://localhost:3000', // Define el origen permitido
+    origin: 'http://localhost:3000',
+    origin: 'hhttps://admin-pro-front-dcvc9z3t0-grgrimales.vercel.app/',
   };
 
 
